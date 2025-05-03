@@ -1,0 +1,20 @@
+command_id: 7E0.0169
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7E8100941693F0000FF
+    7E82117178000000000
+  expected_values:
+    EGR_A_ACT: 0
+    EGR_A_ACT_SUP: 1
+    EGR_A_CMD: 0
+    EGR_A_CMD_SUP: 1
+    EGR_A_ERR: 99.21875
+    EGR_A_ERR_SUP: 1
+    EGR_B_ACT: 9.01961
+    EGR_B_ACT_SUP: 1
+    EGR_B_CMD: 9.01961
+    EGR_B_CMD_SUP: 1
+    EGR_B_ERR: 0
+    EGR_B_ERR_SUP: 1
