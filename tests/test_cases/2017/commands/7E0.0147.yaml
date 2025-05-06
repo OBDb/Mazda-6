@@ -11,6 +11,12 @@ test_cases:
 - response: 7E80341471A
   expected_values:
     TP_B: 10.19608
+- response: 7E80341471B
+  expected_values:
+    TP_B: 10.58824
+- response: 7E80341471C
+  expected_values:
+    TP_B: 10.98039
 - response: 7E80341471D
   expected_values:
     TP_B: 11.37255
@@ -116,9 +122,15 @@ test_cases:
 - response: 7E80341473F
   expected_values:
     TP_B: 24.70588
+- response: '7E803414740'
+  expected_values:
+    TP_B: 25.09804
 - response: '7E803414741'
   expected_values:
     TP_B: 25.4902
+- response: '7E803414742'
+  expected_values:
+    TP_B: 25.88235
 - response: '7E803414743'
   expected_values:
     TP_B: 26.27451
@@ -131,6 +143,9 @@ test_cases:
 - response: '7E803414746'
   expected_values:
     TP_B: 27.45098
+- response: '7E803414747'
+  expected_values:
+    TP_B: 27.84314
 - response: '7E803414748'
   expected_values:
     TP_B: 28.23529
@@ -149,9 +164,27 @@ test_cases:
 - response: 7E80341474E
   expected_values:
     TP_B: 30.58824
+- response: 7E80341474F
+  expected_values:
+    TP_B: 30.98039
+- response: '7E803414751'
+  expected_values:
+    TP_B: 31.76471
 - response: '7E803414752'
   expected_values:
     TP_B: 32.15686
+- response: '7E803414753'
+  expected_values:
+    TP_B: 32.54902
+- response: '7E803414754'
+  expected_values:
+    TP_B: 32.94118
+- response: '7E803414755'
+  expected_values:
+    TP_B: 33.33333
+- response: '7E803414756'
+  expected_values:
+    TP_B: 33.72549
 - response: '7E803414759'
   expected_values:
     TP_B: 34.90196
@@ -164,24 +197,57 @@ test_cases:
 - response: 7E80341475D
   expected_values:
     TP_B: 36.47059
+- response: 7E80341475E
+  expected_values:
+    TP_B: 36.86275
 - response: 7E80341475F
   expected_values:
     TP_B: 37.2549
+- response: '7E803414764'
+  expected_values:
+    TP_B: 39.21569
 - response: '7E803414765'
   expected_values:
     TP_B: 39.60784
 - response: '7E803414768'
   expected_values:
     TP_B: 40.78431
+- response: 7E80341476C
+  expected_values:
+    TP_B: 42.35294
+- response: 7E80341476F
+  expected_values:
+    TP_B: 43.52941
+- response: '7E803414771'
+  expected_values:
+    TP_B: 44.31373
+- response: '7E803414774'
+  expected_values:
+    TP_B: 45.4902
 - response: '7E803414775'
   expected_values:
     TP_B: 45.88235
+- response: 7E80341477B
+  expected_values:
+    TP_B: 48.23529
 - response: '7E803414781'
   expected_values:
     TP_B: 50.58824
+- response: '7E803414794'
+  expected_values:
+    TP_B: 58.03922
+- response: '7E803414795'
+  expected_values:
+    TP_B: 58.43137
 - response: 7E8034147AC
   expected_values:
     TP_B: 67.45098
+- response: 7E8034147B3
+  expected_values:
+    TP_B: 70.19608
+- response: 7E8034147DF
+  expected_values:
+    TP_B: 87.45098
 - response: 7E8034147E9
   expected_values:
     TP_B: 91.37255
