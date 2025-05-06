@@ -6,6 +6,7 @@ test_cases:
     7E8100C4170070A400A
     7E82140000000000100
   expected_values:
+    BP_A: BP_A_OL
     BP_A_ACT: 82
     BP_A_ACT_SUP: 1
     BP_A_CMD: 82
@@ -20,6 +21,7 @@ test_cases:
     7E8100C4170070A400A
     7E82143000000000100
   expected_values:
+    BP_A: BP_A_OL
     BP_A_ACT: 82.09375
     BP_A_ACT_SUP: 1
     BP_A_CMD: 82
