@@ -1,0 +1,5 @@
+command_id: 7E0.2203DF
+test_cases:
+- response: 7E8056203DFFFFF
+  expected_values:
+    MAZDA_VGT_OPEN_PERC: 100

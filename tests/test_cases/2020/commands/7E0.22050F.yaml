@@ -1,0 +1,8 @@
+command_id: 7E0.22050F
+test_cases:
+- response: 7E80462050F8E
+  expected_values:
+    MAZDA_VGT_OPEN: 55.68627
+- response: 7E80462050F8F
+  expected_values:
+    MAZDA_VGT_OPEN: 56.07843
