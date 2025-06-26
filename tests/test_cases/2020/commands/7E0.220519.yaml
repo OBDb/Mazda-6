@@ -1,5 +1,17 @@
 command_id: 7E0.220519
 test_cases:
-- response: '7E8056205190647'
-  expected_values:
+- expected_values:
     MAZDA_OIL_CHANGE_DIST: 6428
+  response: '7E8056205190647'
+- expected_values:
+    MAZDA_OIL_CHANGE_DIST: 11132
+  response: 7E8056205190ADF
+- expected_values:
+    MAZDA_OIL_CHANGE_DIST: 11136
+  response: 7E8056205190AE0
+- expected_values:
+    MAZDA_OIL_CHANGE_DIST: 11140
+  response: 7E8056205190AE1
+- expected_values:
+    MAZDA_OIL_CHANGE_DIST: 11144
+  response: 7E8056205190AE2

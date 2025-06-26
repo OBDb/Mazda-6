@@ -1,8 +1,8 @@
 command_id: 7E0.220451
 test_cases:
-- response: 7E8046204513F
-  expected_values:
-    MAZDA_OXY: 24.70588
-- response: '7E80462045170'
-  expected_values:
+- expected_values:
+    MAZDA_OXY: 23.92157
+  response: 7E8046204513D
+- expected_values:
     MAZDA_OXY: 43.92157
+  response: '7E80462045170'

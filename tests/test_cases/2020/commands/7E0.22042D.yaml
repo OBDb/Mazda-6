@@ -1,8 +1,11 @@
 command_id: 7E0.22042D
 test_cases:
-- response: 7E80562042D08BE
-  expected_values:
+- expected_values:
+    MAZDA_DPF_PM_GEN: 1.67849
+  response: 7E80562042D044C
+- expected_values:
     MAZDA_DPF_PM_GEN: 3.41497
-- response: 7E80562042D08C3
-  expected_values:
+  response: 7E80562042D08BE
+- expected_values:
     MAZDA_DPF_PM_GEN: 3.4226
+  response: 7E80562042D08C3

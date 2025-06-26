@@ -1,8 +1,29 @@
 command_id: 7E0.2203FB
 test_cases:
-- response: 7E8046203FB40
-  expected_values:
+- expected_values:
     MAZDA_EGR_OPEN_PERC: 25.09804
-- response: 7E8046203FB68
-  expected_values:
+  response: 7E8046203FB40
+- expected_values:
+    MAZDA_EGR_OPEN_PERC: 36.86275
+  response: 7E8046203FB5E
+- expected_values:
+    MAZDA_EGR_OPEN_PERC: 38.43137
+  response: 7E8046203FB62
+- expected_values:
+    MAZDA_EGR_OPEN_PERC: 39.60784
+  response: 7E8046203FB65
+- expected_values:
+    MAZDA_EGR_OPEN_PERC: 40
+  response: 7E8046203FB66
+- expected_values:
     MAZDA_EGR_OPEN_PERC: 40.78431
+  response: 7E8046203FB68
+- expected_values:
+    MAZDA_EGR_OPEN_PERC: 41.17647
+  response: 7E8046203FB69
+- expected_values:
+    MAZDA_EGR_OPEN_PERC: 41.56863
+  response: 7E8046203FB6A
+- expected_values:
+    MAZDA_EGR_OPEN_PERC: 46.66667
+  response: 7E8046203FB77
