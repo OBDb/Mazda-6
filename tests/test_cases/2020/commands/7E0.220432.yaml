@@ -1,5 +1,8 @@
 command_id: 7E0.220432
 test_cases:
-- response: 7E805620432014F
-  expected_values:
+- expected_values:
     MAZDA_DPF_REGEN_CNT: 335
+  response: 7E805620432014F
+- expected_values:
+    MAZDA_DPF_REGEN_CNT: 349
+  response: 7E805620432015D

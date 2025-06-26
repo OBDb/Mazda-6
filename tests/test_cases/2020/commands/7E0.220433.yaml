@@ -1,5 +1,5 @@
 command_id: 7E0.220433
 test_cases:
-- response: '7E8056204330000'
-  expected_values:
+- expected_values:
     MAZDA_DPF_LAMP_CNT: 0
+  response: '7E8056204330000'

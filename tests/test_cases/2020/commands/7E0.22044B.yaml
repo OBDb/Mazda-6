@@ -1,8 +1,11 @@
 command_id: 7E0.22044B
 test_cases:
-- response: 7E80562044B04AA
-  expected_values:
+- expected_values:
+    MAZDA_DPF_PM_ACC_DES: 0.24567
+  response: 7E80562044B00A1
+- expected_values:
+    MAZDA_DPF_PM_ACC_DES: 0.36469
+  response: 7E80562044B00EF
+- expected_values:
     MAZDA_DPF_PM_ACC_DES: 1.82193
-- response: 7E80562044B04B6
-  expected_values:
-    MAZDA_DPF_PM_ACC_DES: 1.84024
+  response: 7E80562044B04AA

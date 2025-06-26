@@ -1,8 +1,17 @@
 command_id: 7E0.220434
 test_cases:
-- response: 7E8076204340001B60C
-  expected_values:
+- expected_values:
+    MAZDA_DPF_REGEN_DIST: 9.86801
+  response: '7E80762043400001943'
+- expected_values:
+    MAZDA_DPF_REGEN_DIST: 14.84092
+  response: 7E807620434000025FE
+- expected_values:
+    MAZDA_DPF_REGEN_DIST: 18.75486
+  response: '7E80762043400003003'
+- expected_values:
     MAZDA_DPF_REGEN_DIST: 171.11467
-- response: 7E8076204340001B71A
-  expected_values:
+  response: 7E8076204340001B60C
+- expected_values:
     MAZDA_DPF_REGEN_DIST: 171.52667
+  response: 7E8076204340001B71A
