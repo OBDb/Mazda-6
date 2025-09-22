@@ -4,6 +4,9 @@ test_cases:
     MAZDA_TT_2: 19
   response: 72804622A0B45
 - expected_values:
+    MAZDA_TT_2: 25
+  response: 72804622A0B4B
+- expected_values:
     MAZDA_TT_2: 28
   response: 72804622A0B4E
 - expected_values:

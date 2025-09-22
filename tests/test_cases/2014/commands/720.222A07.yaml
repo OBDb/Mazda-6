@@ -1,0 +1,10 @@
+command_id: 720.222A07
+test_cases:
+- expected_values:
+    MAZDA_TP_3: 3.5
+  response: |-
+    222A07
+    72804622A07FF
+- expected_values:
+    MAZDA_TP_3: 3.5
+  response: 72804622A07FF
