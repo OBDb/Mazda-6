@@ -1,8 +1,8 @@
 command_id: 793.22D901
 test_cases:
 - expected_values:
-    MAZDA_CC_TGT_DIST: 2.25
-  response: 79B0562D9010009
+    MAZDA_CC_TGT_DIST: 1.75
+  response: 79B0562D9010007
 - expected_values:
     MAZDA_CC_TGT_DIST: 15.75
   response: 79B0562D901003F
