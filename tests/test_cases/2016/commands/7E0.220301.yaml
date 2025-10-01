@@ -11,4 +11,4 @@ test_cases:
   response: 7E80562030107FE
 - expected_values:
     MAZDA_MAP: 4
-  response: '7E8056203011007'
+  response: '7E8056203011003'
