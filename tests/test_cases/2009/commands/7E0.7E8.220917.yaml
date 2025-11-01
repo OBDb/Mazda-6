@@ -4,11 +4,11 @@ test_cases:
     MAZDA_TP1_V: 0.595
   response: '7E8056209170253'
 - expected_values:
-    MAZDA_TP1_V: 0.765
-  response: 7E80562091702FD
+    MAZDA_TP1_V: 1.79
+  response: 7E80562091706FE
 - expected_values:
-    MAZDA_TP1_V: 1.03
-  response: '7E8056209170406'
+    MAZDA_TP1_V: 2.305
+  response: '7E8056209170901'
 - expected_values:
-    MAZDA_TP1_V: 2.125
-  response: 7E805620917084D
+    MAZDA_TP1_V: 2.64
+  response: 7E8056209170A50
