@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22091A
 test_cases:
 - expected_values:
-    MAZDA_ETC_DSD_DEG: 6.68359
-  response: 7E80562091A0D5E
+    MAZDA_ETC_DSD_DEG: 6.60742
+  response: 7E80562091A0D37
 - expected_values:
-    MAZDA_ETC_DSD_DEG: 8.51562
-  response: 7E80562091A1108
+    MAZDA_ETC_DSD_DEG: 19.99609
+  response: 7E80562091A27FE
 - expected_values:
-    MAZDA_ETC_DSD_DEG: 36.98828
-  response: 7E80562091A49FA
+    MAZDA_ETC_DSD_DEG: 21.50195
+  response: 7E80562091A2B01
+- expected_values:
+    MAZDA_ETC_DSD_DEG: 47.82617
+  response: 7E80562091A5FA7
