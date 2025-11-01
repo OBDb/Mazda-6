@@ -10,5 +10,5 @@ test_cases:
     MAZDA_ETC_ACT_DEG: 12.97656
   response: 7E80562093C19F4
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 27.76367
-  response: 7E80562093C3787
+    MAZDA_ETC_ACT_DEG: 39.93164
+  response: 7E80562093C4FDD
