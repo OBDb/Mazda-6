@@ -5,6 +5,14 @@ test_cases:
     MAZDA_TT_FR: 14
   response: 72804622A0D40
 - expected_values:
+    MAZDA_TT_4: 16
+    MAZDA_TT_FR: 16
+  response: 72804622A0D42
+- expected_values:
+    MAZDA_TT_4: 17
+    MAZDA_TT_FR: 17
+  response: 72804622A0D43
+- expected_values:
     MAZDA_TT_4: 23
     MAZDA_TT_FR: 23
   response: 72804622A0D49
