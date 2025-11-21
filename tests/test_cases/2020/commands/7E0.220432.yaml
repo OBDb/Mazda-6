@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     MAZDA_DPF_REGEN_CNT: 349
   response: 7E805620432015D
+- expected_values:
+    MAZDA_DPF_REGEN_CNT: 370
+  response: '7E8056204320172'
