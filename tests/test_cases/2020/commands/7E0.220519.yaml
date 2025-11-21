@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     MAZDA_OIL_CHANGE_DIST: 11144
   response: 7E8056205190AE2
+- expected_values:
+    MAZDA_OIL_CHANGE_DIST: 19884
+  response: 7E805620519136B
+- expected_values:
+    MAZDA_OIL_CHANGE_DIST: 19888
+  response: 7E805620519136C

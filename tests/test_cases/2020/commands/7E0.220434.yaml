@@ -10,8 +10,8 @@ test_cases:
     MAZDA_DPF_REGEN_DIST: 18.75486
   response: '7E80762043400003003'
 - expected_values:
-    MAZDA_DPF_REGEN_DIST: 171.11467
-  response: 7E8076204340001B60C
-- expected_values:
     MAZDA_DPF_REGEN_DIST: 171.52667
   response: 7E8076204340001B71A
+- expected_values:
+    MAZDA_DPF_REGEN_DIST: 430.64927
+  response: 7E80762043400044E72

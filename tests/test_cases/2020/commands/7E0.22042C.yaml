@@ -4,8 +4,8 @@ test_cases:
     MAZDA_DPF_PM_ACC: 0.86824
   response: 7E80562042C0239
 - expected_values:
-    MAZDA_DPF_PM_ACC: 1.82193
-  response: 7E80562042C04AA
-- expected_values:
     MAZDA_DPF_PM_ACC: 1.84787
   response: 7E80562042C04BB
+- expected_values:
+    MAZDA_DPF_PM_ACC: 4.31373
+  response: 7E80562042C0B0B
