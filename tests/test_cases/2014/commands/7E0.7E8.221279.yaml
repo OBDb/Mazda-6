@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.221279
 test_cases:
 - expected_values:
+    MAZDA_IAT_SENS_V: 1.85728
+  response: 7E805621279017C
+- expected_values:
+    MAZDA_IAT_SENS_V: 2.02346
+  response: 7E805621279019E
+- expected_values:
     MAZDA_IAT_SENS_V: 2.68328
   response: '7E8056212790225'
-- expected_values:
-    MAZDA_IAT_SENS_V: 2.72239
-  response: 7E805621279022D
