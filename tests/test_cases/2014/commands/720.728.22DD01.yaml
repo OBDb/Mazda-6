@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     MAZDA_ODO_TRIP: 19348
   response: 7280662DD0102F3C8
+- expected_values:
+    MAZDA_ODO_TRIP: 19349.2
+  response: 7280662DD0102F3D4
+- expected_values:
+    MAZDA_ODO_TRIP: 19349.3
+  response: 7280662DD0102F3D5
