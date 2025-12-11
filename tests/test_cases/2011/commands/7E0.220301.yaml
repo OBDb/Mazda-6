@@ -2,13 +2,17 @@ command_id: 7E0.220301
 test_cases:
 - expected_values:
     MAZDA_MAP: 0.655
+    MAZDA_MAP_V: 0.63965
   response: 7E805620301028F
 - expected_values:
     MAZDA_MAP: 1.28
+    MAZDA_MAP_V: 1.25
   response: '7E8056203010500'
 - expected_values:
     MAZDA_MAP: 1.535
+    MAZDA_MAP_V: 1.49902
   response: 7E80562030105FF
 - expected_values:
     MAZDA_MAP: 4
+    MAZDA_MAP_V: 4.00391
   response: '7E8056203011004'
