@@ -4,5 +4,29 @@ test_cases:
     MAZDA_AC_P_SENS_V: 0.90332
   response: 7E805629800039D
 - expected_values:
+    MAZDA_AC_P_SENS_V: 0.92773
+  response: 7E80562980003B6
+- expected_values:
+    MAZDA_AC_P_SENS_V: 0.97168
+  response: 7E80562980003E3
+- expected_values:
+    MAZDA_AC_P_SENS_V: 0.99121
+  response: 7E80562980003F7
+- expected_values:
     MAZDA_AC_P_SENS_V: 1.04004
   response: '7E8056298000429'
+- expected_values:
+    MAZDA_AC_P_SENS_V: 1.16699
+  response: 7E80562980004AB
+- expected_values:
+    MAZDA_AC_P_SENS_V: 1.17676
+  response: 7E80562980004B5
+- expected_values:
+    MAZDA_AC_P_SENS_V: 1.24023
+  response: 7E80562980004F6
+- expected_values:
+    MAZDA_AC_P_SENS_V: 1.25488
+  response: '7E8056298000505'
+- expected_values:
+    MAZDA_AC_P_SENS_V: 1.4209
+  response: 7E80562980005AF

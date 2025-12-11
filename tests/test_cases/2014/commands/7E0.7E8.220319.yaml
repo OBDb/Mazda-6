@@ -4,5 +4,23 @@ test_cases:
     MAZDA_VCT_EXH_ACT: 0
   response: '7E8056203190000'
 - expected_values:
+    MAZDA_VCT_EXH_ACT: 0.0625
+  response: '7E8056203190001'
+- expected_values:
+    MAZDA_VCT_EXH_ACT: 0.1875
+  response: '7E8056203190003'
+- expected_values:
+    MAZDA_VCT_EXH_ACT: 0.375
+  response: '7E8056203190006'
+- expected_values:
     MAZDA_VCT_EXH_ACT: 0.5625
   response: '7E8056203190009'
+- expected_values:
+    MAZDA_VCT_EXH_ACT: 0.6875
+  response: 7E805620319000B
+- expected_values:
+    MAZDA_VCT_EXH_ACT: 0.875
+  response: 7E805620319000E
+- expected_values:
+    MAZDA_VCT_EXH_ACT: 39.25
+  response: '7E8056203190274'
