@@ -1,14 +1,18 @@
 command_id: 7E1.7E9.221E1C
 test_cases:
 - expected_values:
+    MAZDA_TRANS_T_V2: 73.85
     MAZDA_TRANS_T_V6: 73.85
   response: 7E905621E1C0174
 - expected_values:
+    MAZDA_TRANS_T_V2: 92.75
     MAZDA_TRANS_T_V6: 92.75
   response: 7E905621E1C021C
 - expected_values:
+    MAZDA_TRANS_T_V2: 146.75
     MAZDA_TRANS_T_V6: 146.75
   response: 7E905621E1C03FC
 - expected_values:
+    MAZDA_TRANS_T_V2: 187.1375
     MAZDA_TRANS_T_V6: 187.1375
   response: 7E905621E1C0563
