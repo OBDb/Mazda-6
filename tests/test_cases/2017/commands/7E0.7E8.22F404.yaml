@@ -4,5 +4,5 @@ test_cases:
     MAZDA_ENG_LOAD_PCT: 16.86275
   response: 7E80462F4042B
 - expected_values:
-    MAZDA_ENG_LOAD_PCT: 68.23529
-  response: 7E80462F404AE
+    MAZDA_ENG_LOAD_PCT: 73.72549
+  response: 7E80462F404BC

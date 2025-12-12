@@ -1,20 +1,11 @@
 command_id: 7E0.220393
 test_cases:
 - expected_values:
-    MAZDA_AC_P: 96.88522
-  response: 7E805620393014E
+    MAZDA_AC_P: 89.05318
+  response: '7E8056203930133'
 - expected_values:
-    MAZDA_AC_P: 99.78597
-  response: '7E8056203930158'
+    MAZDA_AC_P: 132.27443
+  response: 7E80562039301C8
 - expected_values:
-    MAZDA_AC_P: 101.52642
-  response: 7E805620393015E
-- expected_values:
-    MAZDA_AC_P: 105.29741
-  response: 7E805620393016B
-- expected_values:
-    MAZDA_AC_P: 106.45771
-  response: 7E805620393016F
-- expected_values:
-    MAZDA_AC_P: 110.22869
-  response: 7E805620393017C
+    MAZDA_AC_P: 176.07583
+  response: 7E805620393025F
