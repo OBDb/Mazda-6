@@ -4,29 +4,5 @@ test_cases:
     MAZDA_ENG_LOAD_PCT: 13.33333
   response: 7E80462F40422
 - expected_values:
-    MAZDA_ENG_LOAD_PCT: 22.35294
-  response: 7E80462F40439
-- expected_values:
-    MAZDA_ENG_LOAD_PCT: 22.7451
-  response: 7E80462F4043A
-- expected_values:
-    MAZDA_ENG_LOAD_PCT: 24.70588
-  response: 7E80462F4043F
-- expected_values:
-    MAZDA_ENG_LOAD_PCT: 32.15686
-  response: 7E80462F40452
-- expected_values:
-    MAZDA_ENG_LOAD_PCT: 32.94118
-  response: 7E80462F40454
-- expected_values:
-    MAZDA_ENG_LOAD_PCT: 40.39216
-  response: 7E80462F40467
-- expected_values:
-    MAZDA_ENG_LOAD_PCT: 41.96078
-  response: 7E80462F4046B
-- expected_values:
-    MAZDA_ENG_LOAD_PCT: 42.35294
-  response: 7E80462F4046C
-- expected_values:
     MAZDA_ENG_LOAD_PCT: 100
   response: 7E80462F404FF

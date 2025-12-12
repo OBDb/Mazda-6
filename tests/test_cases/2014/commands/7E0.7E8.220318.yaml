@@ -2,28 +2,13 @@ command_id: 7E0.7E8.220318
 test_cases:
 - expected_values:
     MAZDA_VCT_INT_ACT: 0
-  response: 7E805620318010E
+  response: 7E80562031800B1
 - expected_values:
     MAZDA_VCT_INT_ACT: 0
-  response: 7E805620318011C
+  response: 7E80562031800F5
 - expected_values:
     MAZDA_VCT_INT_ACT: 0
-  response: '7E8056203180120'
+  response: '7E8056203180105'
 - expected_values:
     MAZDA_VCT_INT_ACT: 0
-  response: '7E8056203180152'
-- expected_values:
-    MAZDA_VCT_INT_ACT: 0
-  response: '7E8056203180191'
-- expected_values:
-    MAZDA_VCT_INT_ACT: 0
-  response: '7E8056203180193'
-- expected_values:
-    MAZDA_VCT_INT_ACT: 0
-  response: 7E80562031801A9
-- expected_values:
-    MAZDA_VCT_INT_ACT: 0
-  response: 7E80562031801B4
-- expected_values:
-    MAZDA_VCT_INT_ACT: 0
-  response: '7E8056203180211'
+  response: 7E805620318032F
