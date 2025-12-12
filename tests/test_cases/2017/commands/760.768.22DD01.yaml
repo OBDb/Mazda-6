@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     MAZDA_ODO_BCM: 245937
   response: 7680662DD0103C0B1
+- expected_values:
+    MAZDA_ODO_BCM: 245939
+  response: 7680662DD0103C0B3
+- expected_values:
+    MAZDA_ODO_BCM: 245942
+  response: 7680662DD0103C0B6
+- expected_values:
+    MAZDA_ODO_BCM: 245945
+  response: 7680662DD0103C0B9
+- expected_values:
+    MAZDA_ODO_BCM: 245950
+  response: 7680662DD0103C0BE
+- expected_values:
+    MAZDA_ODO_BCM: 245952
+  response: 7680662DD0103C0C0
+- expected_values:
+    MAZDA_ODO_BCM: 245954
+  response: 7680662DD0103C0C2
+- expected_values:
+    MAZDA_ODO_BCM: 245956
+  response: 7680662DD0103C0C4
