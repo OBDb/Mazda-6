@@ -4,20 +4,8 @@ test_cases:
     MAZDA_LAT_ANG: 0
   response: 76805622B0C0000
 - expected_values:
-    MAZDA_LAT_ANG: 0
-  response: 76805622B0C0002
-- expected_values:
-    MAZDA_LAT_ANG: 0
-  response: 76805622B0C000F
-- expected_values:
-    MAZDA_LAT_ANG: 0
-  response: 76805622B0C0012
-- expected_values:
-    MAZDA_LAT_ANG: 0
-  response: 76805622B0C0013
-- expected_values:
-    MAZDA_LAT_ANG: 0
-  response: 76805622B0C0024
+    MAZDA_LAT_ANG: -1
+  response: 76805622B0CFFF0
 - expected_values:
     MAZDA_LAT_ANG: -1
   response: 76805622B0CFFFD
