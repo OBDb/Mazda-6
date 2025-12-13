@@ -5,10 +5,10 @@ test_cases:
   response: '7E8056203180081'
 - expected_values:
     MAZDA_VCT_INT_ACT: 0
-  response: 7E805620318010A
+  response: 7E80562031800F8
 - expected_values:
     MAZDA_VCT_INT_ACT: 0
-  response: 7E80562031801F1
+  response: '7E8056203180104'
 - expected_values:
     MAZDA_VCT_INT_ACT: 0
-  response: '7E8056203180210'
+  response: 7E805620318049D
