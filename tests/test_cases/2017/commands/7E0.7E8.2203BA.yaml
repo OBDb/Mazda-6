@@ -4,8 +4,8 @@ test_cases:
     MAZDA_AAT_V: 1.98925
   response: 7E8056203BA0197
 - expected_values:
-    MAZDA_AAT_V: 2.47312
-  response: 7E8056203BA01FA
+    MAZDA_AAT_V: 2.49267
+  response: 7E8056203BA01FE
 - expected_values:
     MAZDA_AAT_V: 2.50244
   response: 7E8056203BA0200
