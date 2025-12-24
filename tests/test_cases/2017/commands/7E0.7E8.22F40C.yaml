@@ -10,5 +10,5 @@ test_cases:
     MAZDA_RPM: 2303.75
   response: 7E80562F40C23FF
 - expected_values:
-    MAZDA_RPM: 4781.25
-  response: 7E80562F40C4AB5
+    MAZDA_RPM: 5045.25
+  response: 7E80562F40C4ED5
