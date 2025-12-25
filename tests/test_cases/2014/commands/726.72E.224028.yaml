@@ -4,3 +4,11 @@ test_cases:
     MAZDA_12V_SOC: 0
     MAZDA_BATT_SOC: 0
   response: '72E0462402800'
+- expected_values:
+    MAZDA_12V_SOC: 100
+    MAZDA_BATT_SOC: 59.60784
+  response: '72E0462402898'
+- expected_values:
+    MAZDA_12V_SOC: 100
+    MAZDA_BATT_SOC: 60.39216
+  response: 72E046240289A
