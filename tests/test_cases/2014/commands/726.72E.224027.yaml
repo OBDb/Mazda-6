@@ -4,3 +4,7 @@ test_cases:
     MAZDA_12V_AGE: 0
     MAZDA_BATT_AGE: 0
   response: '72E056240270000'
+- expected_values:
+    MAZDA_12V_AGE: 5520
+    MAZDA_BATT_AGE: 230
+  response: 72E0562402700E6
