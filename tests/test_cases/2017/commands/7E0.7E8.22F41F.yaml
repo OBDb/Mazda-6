@@ -10,5 +10,5 @@ test_cases:
     MAZDA_RUN_TIME: 1792
   response: 7E80562F41F0700
 - expected_values:
-    MAZDA_RUN_TIME: 3328
-  response: 7E80562F41F0D00
+    MAZDA_RUN_TIME: 5379
+  response: 7E80562F41F1503
