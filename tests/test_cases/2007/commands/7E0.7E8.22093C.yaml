@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    MAZDA_ETC_ACT_DEG: 10.61719
+    MAZDA_ETC_ANG_ACT: 10.61719
+    MAZDA_THROTTLE_POS_ACT: 66.35742
+  response: 7E80562093C153C
