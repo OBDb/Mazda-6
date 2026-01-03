@@ -1,0 +1,9 @@
+command_id: 726.22C150
+test_cases:
+- expected_values:
+    MAZDA_DRIVER_DOOR_OPEN: 0
+    MAZDA_PASSENGER_DOOR_OPEN: 0
+    MAZDA_RLD_OPEN: 0
+    MAZDA_RRD_OPEN: 0
+    MAZDA_TRUNK_OPEN: 0
+  response: 72E0762C15002000000
