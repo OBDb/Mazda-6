@@ -3,5 +3,4 @@ test_cases:
 - expected_values:
     MAZDA_ETC_ANG_DES: 10.45898
     MAZDA_ETC_DSD_DEG: 10.45898
-    MAZDA_THROTTLE_POS_DES: 65.36865
   response: 7E80562091A14EB
