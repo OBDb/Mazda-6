@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
-    MAZDA_ODO: 193480
+    MAZDA_ODO_V3: 193480
   response: 7E80662DD0102F3C8
 - expected_values:
-    MAZDA_ODO: 193492
+    MAZDA_ODO_V3: 193492
   response: 7E80662DD0102F3D4
 - expected_values:
-    MAZDA_ODO: 193493
+    MAZDA_ODO_V3: 193493
   response: 7E80662DD0102F3D5
 - expected_values:
-    MAZDA_ODO: 193521
+    MAZDA_ODO_V3: 193521
   response: 7E80662DD0102F3F1
 - expected_values:
-    MAZDA_ODO: 193522
+    MAZDA_ODO_V3: 193522
   response: 7E80662DD0102F3F2
 - expected_values:
-    MAZDA_ODO: 193523
+    MAZDA_ODO_V3: 193523
   response: 7E80662DD0102F3F3
