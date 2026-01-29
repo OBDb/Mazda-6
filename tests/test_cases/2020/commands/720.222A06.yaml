@@ -2,29 +2,36 @@ command_id: 720.222A06
 test_cases:
 - expected_values:
     MAZDA_TP_2: 2.45767
-    MAZDA_TP_FL: 2.45767
+    MAZDA_TP_FL_V2: 2.45767
+    MAZDA_TP_RL_V2: 2.45767
   response: 72804622A06B3
 - expected_values:
     MAZDA_TP_2: 2.49886
-    MAZDA_TP_FL: 2.49886
+    MAZDA_TP_FL_V2: 2.49886
+    MAZDA_TP_RL_V2: 2.49886
   response: 72804622A06B6
 - expected_values:
     MAZDA_TP_2: 2.51259
-    MAZDA_TP_FL: 2.51259
+    MAZDA_TP_FL_V2: 2.51259
+    MAZDA_TP_RL_V2: 2.51259
   response: 72804622A06B7
 - expected_values:
     MAZDA_TP_2: 2.56751
-    MAZDA_TP_FL: 2.56751
+    MAZDA_TP_FL_V2: 2.56751
+    MAZDA_TP_RL_V2: 2.56751
   response: 72804622A06BB
 - expected_values:
     MAZDA_TP_2: 2.59497
-    MAZDA_TP_FL: 2.59497
+    MAZDA_TP_FL_V2: 2.59497
+    MAZDA_TP_RL_V2: 2.59497
   response: 72804622A06BD
 - expected_values:
     MAZDA_TP_2: 2.62243
-    MAZDA_TP_FL: 2.62243
+    MAZDA_TP_FL_V2: 2.62243
+    MAZDA_TP_RL_V2: 2.62243
   response: 72804622A06BF
 - expected_values:
     MAZDA_TP_2: 2.69108
-    MAZDA_TP_FL: 2.69108
+    MAZDA_TP_FL_V2: 2.69108
+    MAZDA_TP_RL_V2: 2.69108
   response: 72804622A06C4

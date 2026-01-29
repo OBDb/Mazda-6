@@ -2,5 +2,6 @@ command_id: 720.222A05
 test_cases:
 - expected_values:
     MAZDA_TP_1: 3.5
+    MAZDA_TP_FL: 3.5
     MAZDA_TP_RL: 3.5
   response: 72804622A05FF
