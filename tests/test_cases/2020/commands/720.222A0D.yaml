@@ -2,29 +2,36 @@ command_id: 720.222A0D
 test_cases:
 - expected_values:
     MAZDA_TT_4: 14
-    MAZDA_TT_FR: 14
+    MAZDA_TT_FR_V2: 14
+    MAZDA_TT_RR_V2: 14
   response: 72804622A0D40
 - expected_values:
     MAZDA_TT_4: 16
-    MAZDA_TT_FR: 16
+    MAZDA_TT_FR_V2: 16
+    MAZDA_TT_RR_V2: 16
   response: 72804622A0D42
 - expected_values:
     MAZDA_TT_4: 17
-    MAZDA_TT_FR: 17
+    MAZDA_TT_FR_V2: 17
+    MAZDA_TT_RR_V2: 17
   response: 72804622A0D43
 - expected_values:
     MAZDA_TT_4: 23
-    MAZDA_TT_FR: 23
+    MAZDA_TT_FR_V2: 23
+    MAZDA_TT_RR_V2: 23
   response: 72804622A0D49
 - expected_values:
     MAZDA_TT_4: 25
-    MAZDA_TT_FR: 25
+    MAZDA_TT_FR_V2: 25
+    MAZDA_TT_RR_V2: 25
   response: 72804622A0D4B
 - expected_values:
     MAZDA_TT_4: 29
-    MAZDA_TT_FR: 29
+    MAZDA_TT_FR_V2: 29
+    MAZDA_TT_RR_V2: 29
   response: 72804622A0D4F
 - expected_values:
     MAZDA_TT_4: 33
-    MAZDA_TT_FR: 33
+    MAZDA_TT_FR_V2: 33
+    MAZDA_TT_RR_V2: 33
   response: 72804622A0D53
