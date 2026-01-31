@@ -4,6 +4,11 @@ test_cases:
     MAZDA_LAT_ANG: 0
   response: 76805622B0C0000
 - expected_values:
+    MAZDA_LAT_ANG: 0
+  response: |-
+    76805622B0C0004
+    76805622B0C0005
+- expected_values:
     MAZDA_LAT_ANG: -1
   response: 76805622B0CFF92
 - expected_values:
