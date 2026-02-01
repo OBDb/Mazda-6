@@ -4,6 +4,11 @@ test_cases:
     MAZDA_VCT_INT_DUTY: 10.00061
   response: 7E8056203160CCD
 - expected_values:
+    MAZDA_VCT_INT_DUTY: 10.00061
+  response: |-
+    7E8056203160CCD
+    7E8056203160CCD
+- expected_values:
     MAZDA_VCT_INT_DUTY: 35.00061
   response: 7E8056203162CCD
 - expected_values:
