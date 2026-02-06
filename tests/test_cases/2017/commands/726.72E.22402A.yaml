@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     MAZDA_12V_V_V2: 6
   response: 72E0562402A0000
+- expected_values:
+    MAZDA_12V_V_V2: 6
+  response: |-
+    72E0562402A0000
+    72E0562402A0000
