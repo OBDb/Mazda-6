@@ -10,10 +10,24 @@ test_cases:
     MAZDA_TP1_V: 0.512
   response: '7E8056209170200'
 - expected_values:
+    MAZDA_TP1_V: 0.799
+  response: |-
+    7E80562091702360000
+    7E80562091703160000
+    7E805620917031F0000
+    > 720.728.2261A5
+    CAN ERROR
+- expected_values:
     MAZDA_TP1_V: 0.641
   response: |-
     7E8056209170281
     7E8056209170281
+- expected_values:
+    MAZDA_TP1_V: 0.728
+  response: |-
+    7E80562091702D80000
+    > 7D2.7DA.22106C|fc=1
+    CAN ERROR
 - expected_values:
     MAZDA_TP1_V: 4.676
   response: '7E8056209171244'

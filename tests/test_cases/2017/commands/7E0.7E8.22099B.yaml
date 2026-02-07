@@ -26,4 +26,12 @@ test_cases:
   response: 7E80562099B01A0
 - expected_values:
     MAZDA_AC_STATE: 1
+  response: |-
+    7E80562099B01A00000
+    > 7E0.7E8.221E1F
+    7E804621E1F46000000
+    > 7E2.7EA.2248C4
+    CAN ERROR
+- expected_values:
+    MAZDA_AC_STATE: 1
   response: 7E80562099B01A2

@@ -4,5 +4,22 @@ test_cases:
     MAZDA_IAT_ALT2: 0
   response: 7E80462F40F28
 - expected_values:
+    MAZDA_IAT_ALT2: 58
+  response: |-
+    7E80462F40F5E000000
+    7E80462F40F60000000
+    7E80462F40F61000000
+    7E80462F40F62000000
+    > 7E0.7E8.220319
+    7E80562031900060000
+    > 7E2.7EA.2248A5
+    CAN ERROR
+- expected_values:
+    MAZDA_IAT_ALT2: 60
+  response: |-
+    7E80462F40F64000000
+    > 720.222A07
+    CAN ERROR
+- expected_values:
     MAZDA_IAT_ALT2: 74
   response: 7E80462F40F72

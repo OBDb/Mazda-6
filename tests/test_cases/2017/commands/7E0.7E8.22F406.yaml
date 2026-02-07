@@ -4,5 +4,13 @@ test_cases:
     MAZDA_STFT: -25
   response: 7E80462F40660
 - expected_values:
+    MAZDA_STFT: 4.6875
+  response: |-
+    7E80462F40683000000
+    7E80462F40686000000
+    > 7E0.7E8.22F463
+    > 720.222A0A
+    CAN ERROR
+- expected_values:
     MAZDA_STFT: 28.90625
   response: 7E80462F406A5

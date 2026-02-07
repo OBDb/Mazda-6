@@ -15,5 +15,21 @@ test_cases:
     MAZDA_EOT: 31.68
   response: 7E8056213101C00
 - expected_values:
+    MAZDA_EOT: 91.18
+  response: |-
+    7E805621310333B0000
+    7E805621310333E0000
+    > 720.22C901
+    CAN ERROR
+- expected_values:
+    MAZDA_EOT: 91.18
+  response: |-
+    7E805621310333C0000
+    7E805621310333E0000
+    > 7E0.7E8.221104
+    > 7E0.7E8.221101
+    > 746.74E.22483D
+    CAN ERROR
+- expected_values:
     MAZDA_EOT: 98.28
   response: '7E8056213103604'

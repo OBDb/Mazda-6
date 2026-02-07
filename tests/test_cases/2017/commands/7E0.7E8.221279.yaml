@@ -4,6 +4,15 @@ test_cases:
     MAZDA_IAT_SENS_V: 0.80645
   response: 7E80562127900A5
 - expected_values:
+    MAZDA_IAT_SENS_V: 1.31476
+  response: |-
+    7E80562127900F60000
+    7E80562127900FA0000
+    7E80562127901030000
+    7E805621279010D0000
+    > 7D2.7DA.221040
+    CAN ERROR
+- expected_values:
     MAZDA_IAT_SENS_V: 1.24633
   response: 7E80562127900FF
 - expected_values:

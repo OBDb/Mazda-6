@@ -11,4 +11,11 @@ test_cases:
   response: 7E8056203E8DB00
 - expected_values:
     MAZDA_OAR: 1
+  response: |-
+    7E8056203E8F8F40000
+    > 7E0.7E8.221E16
+    > 725.72D.22DDEF
+    CAN ERROR
+- expected_values:
+    MAZDA_OAR: 1
   response: 7E8056203E8FED4

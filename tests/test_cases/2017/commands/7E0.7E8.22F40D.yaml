@@ -4,5 +4,19 @@ test_cases:
     MAZDA_VSS: 0
   response: 7E80462F40D00
 - expected_values:
+    MAZDA_VSS: 0
+  response: |-
+    7E80462F40D00000000
+    > 7E0.22042D
+    > 726.72E.224029
+    CAN ERROR
+- expected_values:
+    MAZDA_VSS: 0
+  response: |-
+    7E80462F40D00000000
+    > 7E0.22050F
+    > 720.222A05
+    CAN ERROR
+- expected_values:
     MAZDA_VSS: 138
   response: 7E80462F40D8A

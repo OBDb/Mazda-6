@@ -4,6 +4,12 @@ test_cases:
     MAZDA_LTFT: -12.5
   response: 7E80462F40770
 - expected_values:
+    MAZDA_LTFT: -0.78125
+  response: |-
+    7E80462F4077F000000
+    > 7DF.221E23
+    CAN ERROR
+- expected_values:
     MAZDA_LTFT: 2.34375
   response: |-
     7E80462F40783

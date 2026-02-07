@@ -10,5 +10,23 @@ test_cases:
     MAZDA_AC_P: 222.77798
   response: '7E8056203930300'
 - expected_values:
+    MAZDA_AC_P: 331.26622
+  response: |-
+    7E80562039304760000
+    > 7E0.220435
+    > 7E0.7E8.2205AD
+    > 7E0.7E8.2217F4
+    > 7E0.7E8.221505
+    > 7E0.7E8.220200
+    > 7E0.7E8.221E23
+    > 7E0.220415
+    > 720.222A06
+    CAN ERROR
+- expected_values:
+    MAZDA_AC_P: 336.48758
+  response: |-
+    7E80562039304880000
+    CAN ERROR
+- expected_values:
     MAZDA_AC_P: 371.87679
   response: '7E8056203930502'

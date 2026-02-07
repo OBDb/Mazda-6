@@ -7,6 +7,23 @@ test_cases:
     MAZDA_GEN_FC: 21.09407
   response: 7E8056216E81B00
 - expected_values:
+    MAZDA_GEN_FC: 29.06233
+  response: |-
+    7E8056216E81CC60000
+    7E8056216E820570000
+    7E8056216E8242B0000
+    7E8056216E825330000
+    > 760.768.222B11
+    CAN ERROR
+- expected_values:
+    MAZDA_GEN_FC: 23.01061
+  response: |-
+    7E8056216E81D740000
+    > 7E0.7E8.220318
+    7E805620318018A0000
+    > 726.22D926
+    CAN ERROR
+- expected_values:
     MAZDA_GEN_FC: 29.6849
   response: 7E8056216E825FF
 - expected_values:
