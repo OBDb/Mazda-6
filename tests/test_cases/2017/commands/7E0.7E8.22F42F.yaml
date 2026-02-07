@@ -4,5 +4,25 @@ test_cases:
     MAZDA_FLI: 7.05882
   response: 7E80462F42F12
 - expected_values:
+    MAZDA_FLI: 69.01961
+  response: |-
+    7E80462F42FB0000000
+    > 700.708.2210CD
+    CAN ERROR
+- expected_values:
+    MAZDA_FLI: 69.01961
+  response: |-
+    7E80462F42FB0000000
+    > 720.222A0B
+    CAN ERROR
+- expected_values:
+    MAZDA_FLI: 69.01961
+  response: |-
+    7E80462F42FB0000000
+    > 7E0.7E8.221E12
+    > 7E0.7E8.22038A
+    > 750.758.2130|e=2A,ta=2A,fc=1
+    CAN ERROR
+- expected_values:
     MAZDA_FLI: 95.68627
   response: 7E80462F42FF4

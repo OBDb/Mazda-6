@@ -7,5 +7,23 @@ test_cases:
     MAZDA_EVAP_PURGE_CMD: 14.8407
   response: 7E80562116612FF
 - expected_values:
+    MAZDA_EVAP_PURGE_CMD: 15.65247
+  response: |-
+    7E80562116613120000
+    7E80562116614090000
+    CAN ERROR
+- expected_values:
+    MAZDA_EVAP_PURGE_CMD: 23.13843
+  response: |-
+    7E8056211661D9E0000
+    > 7E0.7E8.22041F
+    > 7E0.7E8.22F443
+    7E80562F443002B0000
+    > 7E0.220542
+    > 7E0.7E8.221169
+    > 7E0.7E8.221177
+    > 700.708.221F5C
+    CAN ERROR
+- expected_values:
     MAZDA_EVAP_PURGE_CMD: 63.30566
   response: '7E8056211665108'

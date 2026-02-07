@@ -4,6 +4,12 @@ test_cases:
     MAZDA_HPFP_DES: 435.11322
   response: 7E8056203DC012C
 - expected_values:
+    MAZDA_HPFP_DES: 435.11322
+  response: |-
+    7E8056203DC012C0000
+    > 7E2.7EA.22489E
+    CAN ERROR
+- expected_values:
     MAZDA_HPFP_DES: 741.14285
   response: 7E8056203DC01FF
 - expected_values:
