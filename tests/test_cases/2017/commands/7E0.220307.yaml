@@ -11,6 +11,13 @@ test_cases:
     7E805620307489B
     7E805620307489B
 - expected_values:
+    MAZDA_FP_LD: 28.36194
+    MAZDA_LPFP_DUTY: 56.72302
+  response: |-
+    7E805620307489B0000
+    > 723.72B.22D914
+    CAN ERROR
+- expected_values:
     MAZDA_FP_LD: 28.51453
     MAZDA_LPFP_DUTY: 57.0282
   response: 7E80562030748FF

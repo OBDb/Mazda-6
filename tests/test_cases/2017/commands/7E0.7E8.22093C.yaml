@@ -13,6 +13,15 @@ test_cases:
     MAZDA_ETC_ANG_ACT: 2.99805
   response: 7E80562093C05FF
 - expected_values:
+    MAZDA_ETC_ACT_DEG: 4.7168
+    MAZDA_ETC_ANG_ACT: 4.7168
+  response: |-
+    7E80562093C096F0000
+    > 7E0.7E8.22F41F
+    7E80562F41F06140000
+    > 7DF.221E23
+    CAN ERROR
+- expected_values:
     MAZDA_ETC_ACT_DEG: 86
     MAZDA_ETC_ANG_ACT: 86
   response: 7E80562093CAC00

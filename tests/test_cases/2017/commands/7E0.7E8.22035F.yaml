@@ -4,6 +4,16 @@ test_cases:
     MAZDA_RO2_V: 0
   response: 7E80562035F0000
 - expected_values:
+    MAZDA_RO2_V: 0.08398
+  response: |-
+    7E80562035F00420000
+    7E80562035F00460000
+    7E80562035F00560000
+    > 7E0.2203DB
+    > 7E0.7E8.22031B
+    > 723.72B.22DD05
+    CAN ERROR
+- expected_values:
     MAZDA_RO2_V: 0.24902
   response: 7E80562035F00FF
 - expected_values:

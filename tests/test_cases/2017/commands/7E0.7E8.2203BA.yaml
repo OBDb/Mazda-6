@@ -1,6 +1,13 @@
 command_id: 7E0.7E8.2203BA
 test_cases:
 - expected_values:
+    MAZDA_AAT_V: 1.5347
+  response: |-
+    7E8056203BA013A0000
+    > 7E0.7E8.2217F5
+    > 725.72D.22DDB1
+    CAN ERROR
+- expected_values:
     MAZDA_AAT_V: 1.84751
   response: 7E8056203BA017A
 - expected_values:
