@@ -27,6 +27,12 @@ test_cases:
     > 725.72D.22DDB3
     CAN ERROR
 - expected_values:
+    MAZDA_ETC_ANG_DES: 7.01953
+    MAZDA_ETC_DSD_DEG: 7.01953
+  response: |-
+    7E80562091A0C73
+    7E80562091A0E0A
+- expected_values:
     MAZDA_ETC_ANG_DES: 86
     MAZDA_ETC_DSD_DEG: 86
   response: 7E80562091AAC00
