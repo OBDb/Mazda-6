@@ -18,5 +18,5 @@ test_cases:
     > 720.222A05
     CAN ERROR
 - expected_values:
-    MAZDA_VSS: 138
-  response: 7E80462F40D8A
+    MAZDA_VSS: 142
+  response: 7E80462F40D8E
