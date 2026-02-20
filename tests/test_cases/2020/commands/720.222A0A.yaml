@@ -9,6 +9,10 @@ test_cases:
     MAZDA_TT_RL: 22
   response: 72804622A0A48
 - expected_values:
+    MAZDA_TT_1: 23
+    MAZDA_TT_RL: 23
+  response: 72804622A0A49
+- expected_values:
     MAZDA_TT_1: 25
     MAZDA_TT_RL: 25
   response: 72804622A0A4B
