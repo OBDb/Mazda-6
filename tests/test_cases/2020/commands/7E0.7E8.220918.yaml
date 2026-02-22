@@ -7,6 +7,9 @@ test_cases:
     MAZDA_TP2_V: 4.48
   response: '7E8056209181180'
 - expected_values:
+    MAZDA_TP2_V: 4.481
+  response: '7E8056209181181'
+- expected_values:
     MAZDA_TP2_V: 4.484
   response: '7E8056209181184'
 - expected_values:

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     MAZDA_ODO_BCM: 139887
   response: 7680662DD0102226F
+- expected_values:
+    MAZDA_ODO_BCM: 140016
+  response: 7680662DD010222F0

@@ -1,38 +1,14 @@
 command_id: 7E1.7E9.221E1C
 test_cases:
 - expected_values:
+    MAZDA_TRANS_T_V2: 145.7375
+    MAZDA_TRANS_T_V6: 145.7375
+  response: 7E905621E1C03F3
+- expected_values:
+    MAZDA_TRANS_T_V2: 145.9625
+    MAZDA_TRANS_T_V6: 145.9625
+  response: 7E905621E1C03F5
+- expected_values:
     MAZDA_TRANS_T_V2: 182.075
     MAZDA_TRANS_T_V6: 182.075
   response: 7E905621E1C0536
-- expected_values:
-    MAZDA_TRANS_T_V2: 182.8625
-    MAZDA_TRANS_T_V6: 182.8625
-  response: 7E905621E1C053D
-- expected_values:
-    MAZDA_TRANS_T_V2: 183.0875
-    MAZDA_TRANS_T_V6: 183.0875
-  response: 7E905621E1C053F
-- expected_values:
-    MAZDA_TRANS_T_V2: 183.425
-    MAZDA_TRANS_T_V6: 183.425
-  response: 7E905621E1C0542
-- expected_values:
-    MAZDA_TRANS_T_V2: 183.9875
-    MAZDA_TRANS_T_V6: 183.9875
-  response: 7E905621E1C0547
-- expected_values:
-    MAZDA_TRANS_T_V2: 184.2125
-    MAZDA_TRANS_T_V6: 184.2125
-  response: 7E905621E1C0549
-- expected_values:
-    MAZDA_TRANS_T_V2: 184.55
-    MAZDA_TRANS_T_V6: 184.55
-  response: 7E905621E1C054C
-- expected_values:
-    MAZDA_TRANS_T_V2: 185.225
-    MAZDA_TRANS_T_V6: 185.225
-  response: 7E905621E1C0552
-- expected_values:
-    MAZDA_TRANS_T_V2: 185.3375
-    MAZDA_TRANS_T_V6: 185.3375
-  response: 7E905621E1C0553
