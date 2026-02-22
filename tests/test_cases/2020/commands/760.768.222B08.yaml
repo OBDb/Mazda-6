@@ -4,8 +4,14 @@ test_cases:
     MAZDA_RR_VSS: 0
   response: 76804622B0800
 - expected_values:
+    MAZDA_RR_VSS: 1
+  response: 76804622B0801
+- expected_values:
     MAZDA_RR_VSS: 7
   response: 76804622B0807
+- expected_values:
+    MAZDA_RR_VSS: 17
+  response: 76804622B0811
 - expected_values:
     MAZDA_RR_VSS: 28
   response: 76804622B081C
