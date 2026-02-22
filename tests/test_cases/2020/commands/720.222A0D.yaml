@@ -16,6 +16,11 @@ test_cases:
     MAZDA_TT_RR_V2: 17
   response: 72804622A0D43
 - expected_values:
+    MAZDA_TT_4: 19
+    MAZDA_TT_FR_V2: 19
+    MAZDA_TT_RR_V2: 19
+  response: 72804622A0D45
+- expected_values:
     MAZDA_TT_4: 23
     MAZDA_TT_FR_V2: 23
     MAZDA_TT_RR_V2: 23
