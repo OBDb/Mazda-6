@@ -5,6 +5,10 @@ test_cases:
     MAZDA_[ECU] HPFP SENSOR VOLTAGE: 1.44673
   response: '7E8056203240128'
 - expected_values:
+    MAZDA_HPFP_V: 1.45161
+    MAZDA_[ECU] HPFP SENSOR VOLTAGE: 1.45161
+  response: '7E8056203240129'
+- expected_values:
     MAZDA_HPFP_V: 1.4565
     MAZDA_[ECU] HPFP SENSOR VOLTAGE: 1.4565
   response: 7E805620324012A
