@@ -10,5 +10,10 @@ test_cases:
     > 726.22C259
     CAN ERROR
 - expected_values:
+    MAZDA_ENG_LOAD_PCT: 49.01961
+  response: |-
+    7E80462F40476
+    7E80462F4047D
+- expected_values:
     MAZDA_ENG_LOAD_PCT: 100
   response: 7E80462F404FF
