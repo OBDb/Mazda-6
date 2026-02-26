@@ -4,7 +4,7 @@ test_cases:
     MAZDA_TP_4: 0
   response: 72804622A0800
 - expected_values:
-    MAZDA_TP_4: 2.75973
-    MAZDA_TP_FR_V2: 2.75973
-    MAZDA_TP_RR_V2: 2.75973
-  response: 72804622A08C9
+    MAZDA_TP_4: 2.95195
+    MAZDA_TP_FR_V2: 2.95195
+    MAZDA_TP_RR_V2: 2.95195
+  response: 72804622A08D7
