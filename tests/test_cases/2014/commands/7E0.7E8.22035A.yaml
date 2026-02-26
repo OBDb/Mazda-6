@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     MAZDA_BARO_V_V2: 4.11046
   response: 7E80562035A0349
+- expected_values:
+    MAZDA_BARO_V_V2: 4.11535
+  response: 7E80562035A034A
