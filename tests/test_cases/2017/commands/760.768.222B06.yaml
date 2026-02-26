@@ -9,5 +9,10 @@ test_cases:
     76804622B0600
     76804622B0600
 - expected_values:
+    MAZDA_FR_VSS: 114
+  response: |-
+    76804622B066D
+    76804622B0672
+- expected_values:
     MAZDA_FR_VSS: 134
   response: 76804622B0686
