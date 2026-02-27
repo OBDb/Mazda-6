@@ -4,29 +4,11 @@ test_cases:
     MAZDA_ODO_V3: 139887
   response: 7E80662DD0102226F
 - expected_values:
-    MAZDA_ODO_V3: 140016
-  response: 7E80662DD010222F0
-- expected_values:
     MAZDA_ODO_V3: 140019
   response: 7E80662DD010222F3
 - expected_values:
     MAZDA_ODO_V3: 140072
   response: 7E80662DD01022328
-- expected_values:
-    MAZDA_ODO_V3: 140073
-  response: 7E80662DD01022329
-- expected_values:
-    MAZDA_ODO_V3: 140084
-  response: 7E80662DD01022334
-- expected_values:
-    MAZDA_ODO_V3: 140085
-  response: 7E80662DD01022335
-- expected_values:
-    MAZDA_ODO_V3: 140086
-  response: 7E80662DD01022336
-- expected_values:
-    MAZDA_ODO_V3: 140090
-  response: 7E80662DD0102233A
 - expected_values:
     MAZDA_ODO_V3: 140355
   response: 7E80662DD01022443
