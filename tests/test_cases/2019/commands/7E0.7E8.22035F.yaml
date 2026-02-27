@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22035F
+test_cases:
+- expected_values:
+    MAZDA_RO2_V: 0.08301
+  response: 7E80562035F0055
+- expected_values:
+    MAZDA_RO2_V: 0.22559
+  response: 7E80562035F00E7
