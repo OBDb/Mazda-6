@@ -1,0 +1,10 @@
+command_id: 7E0.220307
+test_cases:
+- expected_values:
+    MAZDA_FP_LD: 20.69886
+    MAZDA_LPFP_DUTY: 41.39709
+  response: 7E80562030734FD
+- expected_values:
+    MAZDA_FP_LD: 23.10216
+    MAZDA_LPFP_DUTY: 46.20361
+  response: 7E8056203073B24
