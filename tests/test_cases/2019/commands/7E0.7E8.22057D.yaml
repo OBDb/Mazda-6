@@ -1,6 +1,11 @@
 command_id: 7E0.7E8.22057D
 test_cases:
 - expected_values:
+    MAZDA_AAT_ALT: 26.5
+  response: |-
+    22057D
+    7E80462057D85
+- expected_values:
     MAZDA_AAT_ALT: 26
   response: 7E80462057D84
 - expected_values:

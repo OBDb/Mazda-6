@@ -2,4 +2,9 @@ command_id: 760.768.22DD01
 test_cases:
 - expected_values:
     MAZDA_ODO_BCM: 26981
+  response: |-
+    22DD01
+    7680662DD01006965
+- expected_values:
+    MAZDA_ODO_BCM: 26981
   response: 7680662DD01006965

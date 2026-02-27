@@ -3,4 +3,10 @@ test_cases:
 - expected_values:
     MAZDA_12V_SOC_V2: 0
     MAZDA_BATT_SOC: 0
+  response: |-
+    224028
+    72E0462402800
+- expected_values:
+    MAZDA_12V_SOC_V2: 0
+    MAZDA_BATT_SOC: 0
   response: '72E0462402800'
