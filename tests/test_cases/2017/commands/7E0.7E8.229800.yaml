@@ -40,5 +40,5 @@ test_cases:
     > 7D2.7DA.221F9A
     CAN ERROR
 - expected_values:
-    MAZDA_AC_P_SENS_V: 2.28516
-  response: '7E8056298000924'
+    MAZDA_AC_P_SENS_V: 2.51953
+  response: 7E8056298000A14
