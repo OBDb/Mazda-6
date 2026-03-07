@@ -1,0 +1,18 @@
+command_id: 720.728.2261B1|f=2012-
+test_cases:
+- expected_values:
+    MX5_FLV: 32
+  response: |-
+    2261B1
+    728046261B120
+- expected_values:
+    MX5_FLV: 56
+  response: |-
+    2261B1
+    728046261B138
+- expected_values:
+    MX5_FLV: 13
+  response: 728046261B10D
+- expected_values:
+    MX5_FLV: 60
+  response: 728046261B13C

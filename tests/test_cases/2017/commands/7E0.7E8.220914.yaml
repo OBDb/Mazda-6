@@ -1,10 +1,10 @@
 command_id: 7E0.7E8.220914
 test_cases:
 - expected_values:
-    MAZDA_APP1_V: 0.78
+    MX5_APP1_V: 0.78
   response: 7E805620914030C
 - expected_values:
-    MAZDA_APP1_V: 0.781
+    MX5_APP1_V: 0.781
   response: |-
     7E805620914030D0000
     > 7E0.7E8.220316
@@ -12,11 +12,11 @@ test_cases:
     > 720.2261B1
     CAN ERROR
 - expected_values:
-    MAZDA_APP1_V: 1.023
+    MX5_APP1_V: 1.023
   response: 7E80562091403FF
 - expected_values:
-    MAZDA_APP1_V: 1.28
+    MX5_APP1_V: 1.28
   response: '7E8056209140500'
 - expected_values:
-    MAZDA_APP1_V: 3.84
+    MX5_APP1_V: 3.84
   response: 7E8056209140F00

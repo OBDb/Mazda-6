@@ -1,21 +1,21 @@
 command_id: 7E0.7E8.220918
 test_cases:
 - expected_values:
-    MAZDA_TP2_V: 0.416
+    MX5_TP2_V: 0.416
   response: 7E80562091801A0
 - expected_values:
-    MAZDA_TP2_V: 1.535
+    MX5_TP2_V: 1.535
   response: 7E80562091805FF
 - expected_values:
-    MAZDA_TP2_V: 2.56
+    MX5_TP2_V: 2.56
   response: 7E8056209180A00
 - expected_values:
-    MAZDA_TP2_V: 4.402
+    MX5_TP2_V: 4.402
   response: |-
     7E8056209181121
     7E8056209181132
 - expected_values:
-    MAZDA_TP2_V: 4.631
+    MX5_TP2_V: 4.631
   response: |-
     7E80562091811380000
     7E80562091811450000
@@ -34,5 +34,5 @@ test_cases:
     > 726.72E.224029
     CAN ERROR
 - expected_values:
-    MAZDA_TP2_V: 4.61
+    MX5_TP2_V: 4.61
   response: '7E8056209181202'
