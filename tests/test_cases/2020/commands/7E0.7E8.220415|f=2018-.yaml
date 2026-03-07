@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220415|f=2018-
+test_cases:
+- expected_values:
+    MX5_EOP: 136
+  response: '7E8056204150088'
+- expected_values:
+    MX5_EOP: 252
+  response: 7E80562041500FC
+- expected_values:
+    MX5_EOP: 291
+  response: '7E8056204150123'
