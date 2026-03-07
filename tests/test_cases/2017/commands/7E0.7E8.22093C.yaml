@@ -1,20 +1,16 @@
 command_id: 7E0.7E8.22093C
 test_cases:
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 0.23047
-    MAZDA_ETC_ANG_ACT: 0.23047
+    MX5_ETC_ACT_DEG: 0.23047
   response: 7E80562093C0076
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 1
-    MAZDA_ETC_ANG_ACT: 1
+    MX5_ETC_ACT_DEG: 1
   response: 7E80562093C0200
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 2.99805
-    MAZDA_ETC_ANG_ACT: 2.99805
+    MX5_ETC_ACT_DEG: 2.99805
   response: 7E80562093C05FF
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 4.7168
-    MAZDA_ETC_ANG_ACT: 4.7168
+    MX5_ETC_ACT_DEG: 4.7168
   response: |-
     7E80562093C096F0000
     > 7E0.7E8.22F41F
@@ -22,6 +18,5 @@ test_cases:
     > 7DF.221E23
     CAN ERROR
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 86
-    MAZDA_ETC_ANG_ACT: 86
+    MX5_ETC_ACT_DEG: 86
   response: 7E80562093CAC00
