@@ -19,7 +19,7 @@
   "signals": [
     {"id": "MX5_TT_1_ND", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Wheel 1 temperature"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0B"}, "freq": 15, "filter": { "from": 2018 }, "dbgfilter": { "to": 2018, "from": 2022 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0B"}, "freq": 15, "filter": { "from": 2018 }, "dbgfilter": { "to": 2018, "years": [2022, 2023, 2024] },
   "signals": [
     {"id": "MX5_TT_2_ND", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Wheel 2 temperature"}
   ]},
