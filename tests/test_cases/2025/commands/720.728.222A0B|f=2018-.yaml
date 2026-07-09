@@ -1,0 +1,14 @@
+command_id: 720.728.222A0B|f=2018-
+test_cases:
+- expected_values:
+    MX5_TT_2_ND: 35
+  response: 72804622A0B55
+- expected_values:
+    MX5_TT_2_ND: 42
+  response: 72804622A0B5C
+- expected_values:
+    MX5_TT_2_ND: 44
+  response: 72804622A0B5E
+- expected_values:
+    MX5_TT_2_ND: 46
+  response: 72804622A0B60
