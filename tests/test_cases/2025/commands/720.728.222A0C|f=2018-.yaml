@@ -1,0 +1,13 @@
+command_id: 720.728.222A0C|f=2018-
+test_cases:
+- expected_values:
+    MX5_TT_3_ND: 35
+  response: |-
+    222A0C
+    72804622A0C55
+- expected_values:
+    MX5_TT_3_ND: 35
+  response: '728 04 62 2A 0C 55 '
+- expected_values:
+    MX5_TT_3_ND: 35
+  response: 72804622A0C55
