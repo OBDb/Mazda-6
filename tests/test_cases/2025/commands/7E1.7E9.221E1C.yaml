@@ -1,0 +1,24 @@
+command_id: 7E1.7E9.221E1C
+test_cases:
+- expected_values:
+    MX5_TRANS_T_V6: 113.225
+  response: |-
+    221E1C
+    7E905621E1C02D2
+- expected_values:
+    MX5_TRANS_T_V6: 117.275
+  response: |-
+    221E1C
+    7E905621E1C02F6
+- expected_values:
+    MX5_TRANS_T_V6: 110.6375
+  response: '7E9 05 62 1E 1C 02 BB '
+- expected_values:
+    MX5_TRANS_T_V6: 95.9
+  response: 7E905621E1C0238
+- expected_values:
+    MX5_TRANS_T_V6: 117.725
+  response: 7E905621E1C02FA
+- expected_values:
+    MX5_TRANS_T_V6: 126.3875
+  response: 7E905621E1C0347
