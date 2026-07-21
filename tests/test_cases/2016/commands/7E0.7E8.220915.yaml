@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     MX5_APP2_V: 0.395
   response: 7E805620915018B
+- expected_values:
+    MX5_APP2_V: 0.531
+  response: '7E8056209150213'
+- expected_values:
+    MX5_APP2_V: 0.681
+  response: 7E80562091502A9
+- expected_values:
+    MX5_APP2_V: 0.708
+  response: 7E80562091502C4
