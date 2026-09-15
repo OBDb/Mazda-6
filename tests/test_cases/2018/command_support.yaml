@@ -35,3 +35,4 @@ supported_commands_by_ecu:
   - 0142:VPWR
   - 0143:LOAD_ABS
   - 7E0.7E8.220914:MX5_APP1_V
+  - 7E0.7E8.220917:MX5_TP1_V
