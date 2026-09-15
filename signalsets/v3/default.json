@@ -47,7 +47,7 @@
   "signals": [
     {"id": "MX5_EOP", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "kilopascal" }, "name": "Engine oil pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0914"}, "freq": 0.5, "dbgfilter": { "to": 2006, "years": [2008, 2010, 2011, 2012, 2013, 2015, 2018, 2021, 2022, 2023, 2024] },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0914"}, "freq": 0.5, "dbgfilter": { "to": 2006, "years": [2008, 2010, 2011, 2012, 2013, 2015, 2021, 2022, 2023, 2024] },
   "signals": [
     {"id": "MX5_APP1_V", "path": "Engine", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "APP sensor 1 voltage"}
   ]},
