@@ -38,6 +38,8 @@ supported_commands_by_ecu:
   - 7E0.7E8.220301:MX5_MAP
   - 7E0.7E8.220914:MX5_APP1_V
   - 7E0.7E8.220917:MX5_TP1_V
+  - 7E0.7E8.2216E9:MX5_GEN_V
 unsupported_commands_by_ecu:
   "720":
+  - 720.728.222A07|f=2012-:MX5_TP_3_ND
   - 720.728.222A0B|f=2018-:MX5_TT_2_ND
