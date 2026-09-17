@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22091A
+test_cases:
+- expected_values:
+    MX5_ETC_DSD_DEG: 2.01562
+  response: 7E80562091A0408
+- expected_values:
+    MX5_ETC_DSD_DEG: 3.74414
+  response: 7E80562091A077D
+- expected_values:
+    MX5_ETC_DSD_DEG: 4.26367
+  response: 7E80562091A0887
+- expected_values:
+    MX5_ETC_DSD_DEG: 4.40039
+  response: 7E80562091A08CD
+- expected_values:
+    MX5_ETC_DSD_DEG: 4.95898
+  response: 7E80562091A09EB
+- expected_values:
+    MX5_ETC_DSD_DEG: 6.01562
+  response: 7E80562091A0C08
+- expected_values:
+    MX5_ETC_DSD_DEG: 9.07422
+  response: 7E80562091A1226
+- expected_values:
+    MX5_ETC_DSD_DEG: 17.09961
+  response: 7E80562091A2233
+- expected_values:
+    MX5_ETC_DSD_DEG: 22.18164
+  response: 7E80562091A2C5D
+- expected_values:
+    MX5_ETC_DSD_DEG: 26.0957
+  response: 7E80562091A3431
