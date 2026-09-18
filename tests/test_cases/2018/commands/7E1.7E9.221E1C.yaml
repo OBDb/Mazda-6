@@ -4,5 +4,11 @@ test_cases:
     MX5_TRANS_T_V6: 77
   response: 7E905621E1C0190
 - expected_values:
+    MX5_TRANS_T_V6: 89.825
+  response: 7E905621E1C0202
+- expected_values:
+    MX5_TRANS_T_V6: 182.75
+  response: 7E905621E1C053C
+- expected_values:
     MX5_TRANS_T_V6: 203.5625
   response: 7E905621E1C05F5
