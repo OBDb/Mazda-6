@@ -1,0 +1,14 @@
+command_id: 720.728.22DD01
+test_cases:
+- expected_values:
+    MAZDA6_ODO_720: 245937
+  response: 7280662DD0103C0B1
+- expected_values:
+    MAZDA6_ODO_720: 246271
+  response: 7280662DD0103C1FF
+- expected_values:
+    MAZDA6_ODO_720: 246272
+  response: 7280662DD0103C200
+- expected_values:
+    MAZDA6_ODO_720: 251904
+  response: 7280662DD0103D800

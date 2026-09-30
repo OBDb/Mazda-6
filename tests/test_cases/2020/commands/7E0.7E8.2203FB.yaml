@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203FB
+test_cases:
+- expected_values:
+    MAZDA6_EGR_OPEN_PERC: 25.09804
+  response: 7E8046203FB40
+- expected_values:
+    MAZDA6_EGR_OPEN_PERC: 46.66667
+  response: 7E8046203FB77
