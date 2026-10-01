@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    MAZDA6_EVAP_RAW: 1855
+  response: 7E80562038E073F
+- expected_values:
+    MAZDA6_EVAP_RAW: 2035
+  response: 7E80562038E07F3
+- expected_values:
+    MAZDA6_EVAP_RAW: 2320
+  response: 7E80562038E0910
+- expected_values:
+    MAZDA6_EVAP_RAW: 2600
+  response: 7E80562038E0A28

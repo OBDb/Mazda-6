@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22057D
+test_cases:
+- expected_values:
+    MAZDA6_AAT_ALT: 9
+  response: 7E80462057D62
+- expected_values:
+    MAZDA6_AAT_ALT: 37
+  response: 7E80462057D9A
