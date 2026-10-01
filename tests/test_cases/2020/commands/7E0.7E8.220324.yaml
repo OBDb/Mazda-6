@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    MAZDA6_HPFP_V: 1.42229
+  response: '7E8056203240123'
+- expected_values:
+    MAZDA6_HPFP_V: 2.44868
+  response: 7E80562032401F5
