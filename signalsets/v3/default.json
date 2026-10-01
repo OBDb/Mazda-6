@@ -71,7 +71,7 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "402A"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2018], "from": 2021 },
   "signals": [
-    {"id": "MAZDA6_12V_V_726", "path": "Battery", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "12V battery voltage", "suggestedMetric": "starterBatteryVoltage"}
+    {"id": "MAZDA6_12V_V_726", "path": "Battery", "fmt": { "len": 16, "max": 65.535, "div": 1000, "nullmin": 0, "unit": "volts" }, "name": "12V battery voltage", "suggestedMetric": "starterBatteryVoltage"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "402B"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2018], "from": 2021 },
   "signals": [
