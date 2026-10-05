@@ -200,7 +200,7 @@
   "signals": [
     {"id": "MAZDA6_EGR_OPEN_MM", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "unit": "millimeters" }, "name": "Exhaust gas recirculation open", "description": "Monitors the physical position of the EGR valve, which controls the amount of exhaust gas being recirculated back into the engine's intake system."}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0307"}, "freq": 0.25, "dbgfilter": { "to": 2013, "years": [2015, 2018], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0307"}, "freq": 0.25, "filter": { "from": 2014 }, "dbgfilter": { "years": [2015, 2018], "from": 2022 },
   "signals": [
     {"id": "MAZDA6_FP_LD", "path": "Fuel", "fmt": { "len": 16, "max": 100, "mul": 25, "div": 8192, "unit": "percent" }, "name": "Fuel pump duty cycle"}
   ]},
@@ -344,7 +344,7 @@
   "signals": [
     {"id": "MAZDA6_MCT", "fmt": { "len": 8, "max": 148.889, "unit": "celsius" }, "name": "Manifold charge temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03DB"}, "freq": 0.251, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03DB"}, "freq": 0.251, "filter": { "from": 2014 }, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "MAZDA6_EXH_DIFF_P", "path": "Engine", "fmt": { "len": 16, "max": 4.5, "div": 200, "unit": "volts" }, "name": "Exhaust differential pressure", "description": "This sensor is crucial for monitoring how clogged the DPF has become. It measures the pressure before and after the DPF in the exhaust system, with the difference between these two measurements indicating how restricted the filter has become. When the pressure difference becomes too high (indicating a clogged filter), the ECM will initiate a regeneration process to burn off the accumulated soot and clean the filter."}
   ]},
@@ -352,7 +352,7 @@
   "signals": [
     {"id": "MAZDA6_HPFP_DES", "fmt": { "len": 16, "max": 3500, "mul": 1.4503773969, "unit": "psi" }, "name": "High pressure fuel pressure desired"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03DF"}, "freq": 0.25, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03DF"}, "freq": 0.25, "filter": { "from": 2014 }, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "MAZDA6_VGT_OPEN_PERC", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 65535, "unit": "percent" }, "name": "Variable geometry turbocharger open", "description": "Measures the position of the vanes in the Variable Geometry Turbocharger (VGT) and reports this position as a percentage value."}
   ]},
@@ -380,7 +380,7 @@
   "signals": [
     {"id": "MAZDA6_EXH_GAS_T_2", "path": "Engine", "fmt": { "len": 8, "max": 1275, "mul": 5, "unit": "celsius" }, "name": "Exhaust gas temperature 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03FB"}, "freq": 0.25, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03FB"}, "freq": 0.25, "filter": { "from": 2014 }, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "MAZDA6_EGR_OPEN_PERC", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Exhaust gas recirculation open"}
   ]},
@@ -404,11 +404,11 @@
   "signals": [
     {"id": "MAZDA6_BPV_OPEN", "path": "Engine", "fmt": { "len": 8, "max": 1, "div": 255, "unit": "scalar" }, "name": "Bypass valve"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0435"}, "freq": 60, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0435"}, "freq": 60, "filter": { "from": 2014 }, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "MAZDA6_OIL_DIL_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Oil dilution events", "description": "Monitors fuel dilution in your engine oil, which is when fuel (gasoline) mixes with the engine oil in the crankcase."}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0451"}, "freq": 0.25, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0451"}, "freq": 0.25, "filter": { "from": 2014 }, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "MAZDA6_OXY", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Oxygen concentration"}
   ]},
@@ -436,11 +436,11 @@
   "signals": [
     {"id": "MAZDA6_GEN_CURRENT", "path": "Engine", "fmt": { "len": 16, "max": 511.8205, "min": -511.8361, "mul": 781, "div": 50000, "sign": true, "unit": "amps" }, "name": "Generator current"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "050F"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "050F"}, "freq": 1, "filter": { "from": 2014 }, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "MAZDA6_VGT_OPEN", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "millimeters" }, "name": "Variable geometry turbocharger open"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0519"}, "freq": 5, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0519"}, "freq": 5, "filter": { "from": 2014 }, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "MAZDA6_OIL_CHANGE_DIST", "path": "Fluids", "fmt": { "len": 16, "max": 262140, "mul": 4, "unit": "kilometers" }, "name": "Distance since oil changed"}
   ]},
@@ -452,7 +452,7 @@
   "signals": [
     {"id": "MAZDA6_CYL_HEAD_T", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Cylinder head temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0522"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0522"}, "freq": 1, "filter": { "from": 2014 }, "dbgfilter": { "to": 2018, "years": [2020], "from": 2022 },
   "signals": [
     {"id": "MAZDA6_FUEL_T", "path": "Fuel", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Fuel temp"}
   ]},
@@ -723,7 +723,7 @@
   "signals": [
     {"id": "MAZDA6_BOOST_DES", "path": "Engine", "fmt": { "len": 16, "max": 10.23, "div": 6400, "unit": "bars" }, "name": "Boost, desired"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1310"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015, 2022, 2023, 2024] },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1310"}, "freq": 1, "filter": { "from": 2014 }, "dbgfilter": { "years": [2015, 2022, 2023, 2024] },
   "signals": [
     {"id": "MX5_EOT", "path": "Engine", "fmt": { "len": 16, "max": 615.35, "min": -40, "div": 100, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
