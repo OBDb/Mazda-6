@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.220522
+command_id: 7E0.7E8.220522|f=2014-
 test_cases:
 - expected_values:
     MAZDA6_FUEL_T: 51
