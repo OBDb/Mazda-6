@@ -1,7 +1,7 @@
 command_id: 7E1.7E9.221E1C
 test_cases:
 - expected_values:
-    MX5_TRANS_T_V6: 202.4375
+    MX5_TRANS_T_V6: 94.6875
   response: |-
     7E905621E1C05EA0000
     7E905621E1C05EB0000
@@ -10,7 +10,7 @@ test_cases:
     > 7D0.7DA.2162
     CAN ERROR
 - expected_values:
-    MX5_TRANS_T_V6: 204.9125
+    MX5_TRANS_T_V6: 96.0625
   response: |-
     7E905621E1C05F10000
     7E905621E1C05F30000

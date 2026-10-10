@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221E1C
 test_cases:
 - expected_values:
-    MX5_TRANS_T_V6: 62.7125
+    MX5_TRANS_T_V6: 17.0625
   response: 7E905621E1C0111
 - expected_values:
-    MX5_TRANS_T_V6: 118.2875
+    MX5_TRANS_T_V6: 47.9375
   response: 7E905621E1C02FF
 - expected_values:
-    MX5_TRANS_T_V6: 204.8
+    MX5_TRANS_T_V6: 96
   response: 7E905621E1C0600
