@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    MAZDA6_WARMUP_CLR: 255
+  response: |-
+    7E80462F430FF000000
+    > 760.768.222B0C
+    CAN ERROR
