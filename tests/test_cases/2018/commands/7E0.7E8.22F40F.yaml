@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    MAZDA6_IAT_ALT2: 73
+  response: |-
+    7E80462F40F70000000
+    7E80462F40F71000000
+    > 7E0.7E8.2121
+    > 7E0.7E8.220200
+    > 7E0.7E8.2203CA
+    > 7E0.7E8.221613
+    > 7E0.7E8.220707
+    > 7E0.7E8.220427
+    > 7E0.7E8.220306
+    > 7E0.7E8.220548
+    > 720.728.22DD01
+    CAN ERROR

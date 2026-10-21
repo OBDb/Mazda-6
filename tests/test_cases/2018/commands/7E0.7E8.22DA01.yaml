@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22DA01
+test_cases:
+- expected_values:
+    MAZDA6_OIL_P_SOLENOID_VLV: 1
+  response: |-
+    7E80462DA0102000000
+    > 7E0.7E8.22033C
+    > 7E0.7E8.22FD18
+    > 7E0.7E8.221E1C
+    > 7E0.7E8.220968
+    > 7E0.7E8.2205B1
+    > 7E0.7E8.2203BB
+    > 720.728.22C901
+    CAN ERROR
