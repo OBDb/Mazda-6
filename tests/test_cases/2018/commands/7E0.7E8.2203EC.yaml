@@ -17,3 +17,10 @@ test_cases:
     > 7E1.7E9.22DD01
     > 720.728.22DD01
     CAN ERROR
+- expected_values:
+    MAZDA6_IGN_CORR_CYL1: 0
+  response: |-
+    7E8056203EC00000000
+    > 7E0.7E8.2203DF|f=2014-
+    > 726.72E.22D923
+    CAN ERROR
