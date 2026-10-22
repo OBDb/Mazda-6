@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221E1F
+test_cases:
+- expected_values:
+    MAZDA6_GEAR_ENG: 1
+  response: |-
+    7E804621E1F01000000
+    > 760.222B00
+    CAN ERROR
