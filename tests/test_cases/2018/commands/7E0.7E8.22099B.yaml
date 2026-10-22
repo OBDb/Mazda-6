@@ -21,3 +21,11 @@ test_cases:
     > 7E0.7E8.2203B9
     > 726.72E.224028
     CAN ERROR
+- expected_values:
+    MAZDA6_AC_STATE: 0
+  response: |-
+    7E80562099B00000000
+    > 7E0.7E8.22F469
+    > 7E0.7E8.221616
+    > 726.72E.22D925
+    CAN ERROR
