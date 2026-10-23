@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    MAZDA6_ENG_LOAD_PCT: 22.7451
+  response: |-
+    7E80462F4043A000000
+    > 7E0.7E8.221706
+    > 7E0.7E8.220370
+    > 720.728.222A0C|f=2018-
+    CAN ERROR
