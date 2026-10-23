@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    MAZDA6_OAR: 0.21204
+  response: |-
+    7E8056203E80D920000
+    > 726.72E.22402B
+    CAN ERROR
