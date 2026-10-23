@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    MAZDA6_VCT_INT_DUTY: 35.00061
+  response: |-
+    7E8056203160CCD0000
+    7E8056203162CCD0000
+    CAN ERROR
+- expected_values:
+    MAZDA6_VCT_INT_DUTY: 10.00061
+  response: |-
+    7E8056203160CCD0000
+    > 7E0.7E8.220700
+    7E80762070000800000
+    > 7E0.7E8.221E1A
+    > 7E0.7E8.22054B
+    > 760.768.222B07
+    CAN ERROR
