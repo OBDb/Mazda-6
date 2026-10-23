@@ -51,3 +51,8 @@ test_cases:
     > 7E0.7E8.221639
     > 760.768.222B0D
     CAN ERROR
+- expected_values:
+    MAZDA6_BAROMETRIC_P: 79
+  response: |-
+    7E80462F4334F000000
+    CAN ERROR

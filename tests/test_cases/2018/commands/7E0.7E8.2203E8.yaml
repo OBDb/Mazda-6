@@ -6,3 +6,10 @@ test_cases:
     7E8056203E80D920000
     > 726.72E.22402B
     CAN ERROR
+- expected_values:
+    MAZDA6_OAR: 0.26434
+  response: |-
+    7E8056203E810EB0000
+    > 7E0.7E8.220700
+    7E80762070000800000
+    CAN ERROR

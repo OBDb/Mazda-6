@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220317
+test_cases:
+- expected_values:
+    MAZDA6_VCT_EXH_DUTY: 36.54175
+  response: |-
+    7E80562031700000000
+    7E8056203172EC60000
+    CAN ERROR

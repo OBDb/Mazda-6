@@ -1,0 +1,9 @@
+command_id: 7E1.7E9.221E24
+test_cases:
+- expected_values:
+    MAZDA6_TQ_CONV_LOCK_UP: 1
+  response: |-
+    7E904621E2400000000
+    7E904621E2401000000
+    > 7E0.7E8.2205B1
+    CAN ERROR
