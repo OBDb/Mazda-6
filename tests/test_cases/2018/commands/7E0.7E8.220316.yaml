@@ -16,3 +16,12 @@ test_cases:
     > 7E0.7E8.22054B
     > 760.768.222B07
     CAN ERROR
+- expected_values:
+    MAZDA6_VCT_INT_DUTY: 10.00061
+  response: |-
+    7E8056203160CCD0000
+    > 7E0.7E8.2217F5
+    > 7E0.7E8.221104
+    > 7E0.7E8.221127
+    > 726.72E.22C150
+    CAN ERROR
