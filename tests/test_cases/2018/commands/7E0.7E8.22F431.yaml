@@ -38,3 +38,10 @@ test_cases:
     > 7E0.7E8.22050F|f=2014-
     > 760.768.222B09
     CAN ERROR
+- expected_values:
+    MAZDA6_DIST_DTC_CLR: 11741
+  response: |-
+    7E80562F4312DDD0000
+    > 7E0.7E8.22160F
+    > 726.72E.22402A
+    CAN ERROR
