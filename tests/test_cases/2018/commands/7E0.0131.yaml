@@ -33,6 +33,13 @@ test_cases:
     > 726.72E.22402B
     CAN ERROR
 - expected_values:
+    CLR_DIST: 11806
+  response: |-
+    7E80441312E1D000000
+    7E80441312E1E000000
+    > 726.72E.22D922
+    CAN ERROR
+- expected_values:
     CLR_DIST: 13718
   response: '7E80441313596'
 - expected_values:
