@@ -1,10 +1,10 @@
 command_id: 7E1.7E9.221E12
 test_cases:
 - expected_values:
-    MAZDA6_GEAR_7E1: 70
+    MAZDA6_GEAR_7E1: PARK
   response: |-
     221E12
     7E904621E1246
 - expected_values:
-    MAZDA6_GEAR_7E1: 70
+    MAZDA6_GEAR_7E1: PARK
   response: 7E904621E1246
